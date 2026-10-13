@@ -30,11 +30,11 @@ Open [http://localhost:8000](http://localhost:8000).
 
 All seeded accounts use the password `password`:
 
-| Email | Role |
-| --- | --- |
-| `alex@example.com` | Owner of the seeded welcome document |
-| `sam@example.com` | Editor on the welcome document |
-| `taylor@example.com` | Viewer on the welcome document |
+| Email                | Role                                 |
+| -------------------- | ------------------------------------ |
+| `alex@example.com`   | Owner of the seeded welcome document |
+| `sam@example.com`    | Editor on the welcome document       |
+| `taylor@example.com` | Viewer on the welcome document       |
 
 ## Supported features
 
